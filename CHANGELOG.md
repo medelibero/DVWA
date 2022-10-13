@@ -1,4 +1,4 @@
-DAMN VULNERABLE WEB APPLICATION
+DAMN VULNERABLE WEB APPLICATION 
 =======================
 
 v1.10 (*Not Yet Released)
